@@ -1,1 +1,1 @@
-# -project-on-optimization-methods
+# Проект численным методам оптимизации
